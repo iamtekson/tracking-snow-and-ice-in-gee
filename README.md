@@ -1,3 +1,3 @@
-# Tracking Snow and Ice: Hands-On Sessions on Google Earth Engine
+# Tracking Snow and Ice: Hands-On Sessions on GEE
 
 ![session poster](./img/poster.jpg)
